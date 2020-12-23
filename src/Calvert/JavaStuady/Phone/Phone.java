@@ -1,4 +1,4 @@
-package Calvert.JavaStuady;
+package Calvert.JavaStuady.Phone;
 
 // 类的定义
 public class Phone {

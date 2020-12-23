@@ -1,4 +1,4 @@
-package Calvert.JavaStuady;
+package Calvert.JavaStuady.Phone;
 
 public class PhoneDemo {
     public static void main(String[] args){
